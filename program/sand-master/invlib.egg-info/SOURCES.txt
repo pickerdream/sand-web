@@ -1,0 +1,6 @@
+inv.py
+pyproject.toml
+invlib.egg-info/PKG-INFO
+invlib.egg-info/SOURCES.txt
+invlib.egg-info/dependency_links.txt
+invlib.egg-info/top_level.txt
